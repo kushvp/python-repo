@@ -1,3 +1,4 @@
 # python-repo
-This is the repository for my python projects.
-My current project of python is TIC-TAC-TOE game.
+=============
+This is the repository of TIC-TAC-TOE game in python.
+This is the Milestone Project -1 of Complete Python Course on Udemy.
